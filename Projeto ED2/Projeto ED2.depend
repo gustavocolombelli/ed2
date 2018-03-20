@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1521553211 source:c:\users\07501920974\desktop\projeto ed2\src\struct.c
+
+1521555860 source:c:\users\07501920974\desktop\projeto ed2\main.c
+	"hdr/tree.h"
+	"hdr/visual.h"
+	<string.h>
+
+1521553211 c:\users\07501920974\desktop\projeto ed2\src\struct.c
+
+1521552253 c:\users\07501920974\desktop\projeto ed2\hdr\tree.h
+	<stdlib.h>
+	"tools.h"
+
+1521046241 c:\users\07501920974\desktop\projeto ed2\src\tree.c
+	"../hdr/tree.h"
+
+1521555834 source:c:\users\07501920974\desktop\projeto ed2\src\tree.c
+	"../hdr/tree.h"
+
+1521553224 c:\users\07501920974\desktop\projeto ed2\hdr\tools.h
+	"../src/struct.c"
+
+1521479793 source:c:\users\07501920974\desktop\projeto ed2\src\tools.c
+	"../hdr/tools.h"
+
+1521554121 source:c:\users\07501920974\desktop\projeto ed2\src\visual.c
+	"../hdr/visual.h"
+
+1521552176 c:\users\07501920974\desktop\projeto ed2\hdr\struct.h
+
+1521553543 c:\users\07501920974\desktop\projeto ed2\hdr\visual.h
+	<stdio.h>
+	"tools.h"
+
